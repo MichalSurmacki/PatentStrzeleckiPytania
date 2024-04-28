@@ -1,0 +1,5 @@
+X100
+Wpis do książki rejestru pobytu na strzelnicy każdorazowo musi zawierać
+imię nazwisko, numer pozwolenia i nazwę organu wydającego lub adres zamieszkania, podpis
+imię nazwisko, oznaczenie prowadzącego strzelanie, adres zameldowania, podpis
+imię nazwisko, typ i numer broni, adres zamieszkania, godziny wejścia-wyjścia, podpis

@@ -1,0 +1,5 @@
+X100
+Broń uznaje się za załadowaną, jeśli
+posiada nabój w: komorze nabojowej, bębnie lub w podłączonym albo stanowiącym część broni magazynku
+po naciśnięciu spustu nastąpiłby wystrzał
+może zostać przygotowana do strzału bez użycia specjalistycznej wiedzy lub narzędzi

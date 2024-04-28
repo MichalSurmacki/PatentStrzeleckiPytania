@@ -1,0 +1,5 @@
+X010
+Pozwolenie na broń wydane w celu pamiątkowym, nie uprawnia do posiadania następujących rodzajów broni:
+gładkolufowej
+karabinków samoczynnych o kalibrze od 5,45 mm do 7,62 mm
+centralnego zapłonu z lufami gwintowanymi, o kalibrze do 12 mm

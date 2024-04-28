@@ -1,0 +1,5 @@
+X100
+Na zawodach strzeleckich z broni krótkiej na 25 m, magazynek ładujemy nabojami
+po komendzie "ŁADUJ"
+przed komendą "ŁADUJ"
+w trakcie czasu przygotowawczego

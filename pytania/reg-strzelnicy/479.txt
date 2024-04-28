@@ -1,0 +1,5 @@
+X010
+Podczas obsługi broni, jej lufa musi być skierowana
+pionowo w ziemię, aby w razie przypadkowego wystrzału pocisk utkwił w gruncie
+w kierunku kulochwytu, tarcz bądź przedmiotów będących celem na strzelnicy
+w powietrze, aby w razie przypadkowego wystrzału nie postrzelić innych korzystających ze strzelnicy

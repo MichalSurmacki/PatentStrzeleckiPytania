@@ -1,0 +1,5 @@
+X100
+Czy występujący z podaniem o wydanie pozwolenia na broń jest zobowiązany zdać egzamin z przepisów dotyczących posiadania i używania danej broni oraz z umiejętności posługiwania się tą bronią?
+Tak, za wyjątkiem osób zwolnionych z egzaminu zgodnie z UoBiA
+Nie, za wyjątkiem osób wystepujących o broń w celu ochrony osobistej lub ochrony osób i mienia
+Tak

@@ -1,0 +1,5 @@
+X001
+Po usłyszeniu na strzelnicy komendy "STOP" lub "PRZERWIJ OGIEŃ", należy
+odłożyć broń na stolik i pozostać w postawie gotowości
+schować broń do kabury i czekać na komendę prowadzącego
+natychmiast przerwać strzelanie i pozostać w postawie gotowości

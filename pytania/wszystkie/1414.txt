@@ -1,0 +1,5 @@
+X010
+Amunicja bocznego zapłonu to amunicja
+w której masa zapłonowa znajduje się w środku dna łuski
+w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski
+każda o kalibrze mniejszym niż 7.62mm

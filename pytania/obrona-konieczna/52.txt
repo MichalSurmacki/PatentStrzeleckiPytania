@@ -1,0 +1,5 @@
+X001
+W razie przekroczenia granic stanu wyższej konieczości
+sąd wydaje wyrok uniewinniający, jeśli sprawca działał w dużym wzburzeniu
+sprawca nie podlega karze
+sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia

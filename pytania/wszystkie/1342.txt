@@ -1,0 +1,5 @@
+X100
+Ograniczenia regulaminowe pistoletu pneumatycznego
+kaliber 4.5mm, ciężar max: 1500g, opór spustu min: 500g, otwarte przyrządy celownicze, pudełko: 420x200x50mm
+kaliber 4.5mm, ciężar max: 1500g, opór spustu min: 600g, otwarte przyrządy celownicze, pudełko: 420x300x50mm
+kaliber 4.5mm, ciężar max: 1500g, opór spustu min: 600g, zamknięte przyrządy celownicze, pudełko: 420x200x50mm

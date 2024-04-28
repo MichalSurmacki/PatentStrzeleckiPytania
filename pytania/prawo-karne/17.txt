@@ -1,0 +1,5 @@
+010
+Organ Policji cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+jest przedmiotem postępowania przed sądem administracyjnym
+jest skazana prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe
+wielokrotnie została ukarana za wykroczenie w ruchu drogowym

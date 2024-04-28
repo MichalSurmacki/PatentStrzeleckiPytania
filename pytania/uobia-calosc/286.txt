@@ -1,0 +1,5 @@
+X100
+Do kategorii broni szczególnie niebezpiecznej zalicza się
+broń palną wyposażoną w tłumik huku lub przystosowaną do strzelania z użyciem tłumika huku
+broń palną wyposażoną w tłumik płomienia lub przystosowaną do strzelania z użyciem tłumika płomienia
+broń palną ze zmniejszonym oporem mechanizmu spustowo-uderzeniowego

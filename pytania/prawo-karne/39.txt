@@ -1,0 +1,5 @@
+100
+Organ Policji cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko życiu i zdrowiu
+została ukarana mandatem karnym
+jest objęta postępowaniem w sprawie o wykroczenie

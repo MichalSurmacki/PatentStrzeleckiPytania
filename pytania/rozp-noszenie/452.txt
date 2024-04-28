@@ -1,0 +1,5 @@
+X010
+Broń w liczbie powyżej 50 egzemplarzy przechowuje się w
+w urządzeniach spełniających wymagania co najmniej klasy S1 z normy PN-EN 14450
+odpowiednio przystosowanym do tego pomieszczeniu, zwanym "magazynem broni", w urządzeniach spełniających wymagania co najmniej klasy S1 z normy PN-EN 14450
+w pomieszczeniu zamkniętym drzwiami spełniającymi wymagania, o których mowa w normie PN-EN 1627, plombowanych lub zaopatrzonych w inny wskaźnik sygnalizujący wejście osób nieuprawnionych

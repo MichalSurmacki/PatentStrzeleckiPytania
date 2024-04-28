@@ -1,0 +1,5 @@
+X010
+Broń palną i amunicję do tej broni można posiadać
+na podstawie pozwolenia na broń wydanego przez komendanta wojewódzkiego Policji, bez względu na miejsce zamieszkania zainteresowanej osoby lub siedzibę zainteresowanego podmiotu, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwy organ wojskowy
+na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej
+na podstawie pozwolenia na broń wydanego przez właściwego, ze względu na miejsce zamieszkania zainteresowanej osoby lub siedzibę zainteresowanego podmiotu, komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwy organ wojskowy

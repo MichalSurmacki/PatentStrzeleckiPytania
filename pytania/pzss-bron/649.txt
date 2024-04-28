@@ -1,0 +1,5 @@
+X100
+Ograniczenia regulaminowe karabinu standardowego
+kaliber do 8mm, ciężar max: 5500g, opór spustu min: 1500g, mechaniczne przyrządy cel., długość lufy max: 762mm
+kaliber 5.6mm, ciężar max: 8000g, opór spustu min: 1000g, optyczne przyrządy cel., długość lufy max: 1000mm
+kaliber 5.6mm, ciężar max: 6500g, opór spustu min: 100g, optyczne przyrządy cel., długość lufy max: 1000mm

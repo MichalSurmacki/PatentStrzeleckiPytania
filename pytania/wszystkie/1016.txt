@@ -1,0 +1,5 @@
+X010
+Dokonanie zmiany błędnego wpisu w ewidencji posiadanej broni i amunicji polega na
+usunięciu błędnego wpisu w sposób trwały i zastąpienie go poprawnym wpisem
+skreśleniu błędnego wpisu kolorem czerwonym w sposób czytelny, naniesienie poprawnego wpisu ze wskazaniem daty dokonania zmiany i nazwiska osoby uprawnionej do dokonania zmiany wraz z jej własnoręcznym podpisem
+wymazaniu błędnego wpisu oraz wprowadzenie w jego miejsce wpisu poprawnego

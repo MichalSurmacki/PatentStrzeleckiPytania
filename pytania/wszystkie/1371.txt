@@ -1,0 +1,5 @@
+X001
+Maksymalna odległość między muszką, a szczerbinką w pistoletach na 25m
+183mm
+153mm
+220mm

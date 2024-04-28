@@ -1,0 +1,5 @@
+X010
+Organ Policji cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+jest podejrzewana o umyślne przestępstwo lub umyślne przestępstwo skarbowe
+jest skazana prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe
+wielokrotnie została ukarana za wykroczenie w ruchu drogowym

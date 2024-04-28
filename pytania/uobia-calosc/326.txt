@@ -1,0 +1,5 @@
+X001
+Pozwolenie na broń wydane w celu ochrony osobistej, uprawnia m.in. do posiadania następujących rodzajów broni:
+broni palnej: bojowej i alarmowej w postaci pistoletów lub rewolwerów centralnego zapłonu o kalibrach od 6 mm do 9 mm
+broni palnej: bojowej i gazowej w postaci pistoletów lub rewolwerów centralnego zapłonu o kalibrach od 6 mm do 9 mm
+broni palnej: bojowej, gazowej, alarmowej w postaci pistoletów lub rewolwerów centralnego zapłonu o kalibrach od 6 mm do 12 mm

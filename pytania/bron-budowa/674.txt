@@ -1,0 +1,5 @@
+X010
+Reset spustu to
+trzy sekundy wytrzymania po strzale, gdy utrzymujemy ściągnięty spust i ułożenie przyrządów celowniczych
+droga powrotna, którą po wystrzale musi się cofnąć ściągnięty język spustowy zanim pozwoli na oddanie kolejnego strzału
+przywrócenie fabrycznej siły oporu spustu, zwłaszcza w broni o dużym przebiegu

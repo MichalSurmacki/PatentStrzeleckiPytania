@@ -1,0 +1,5 @@
+X010
+Ograniczenia regulaminowe strzelby gładkolufowej
+maksymalna długośc komory nabojowej: 76mm, wagomiar max: 16
+maksymalna długośc komory nabojowej: 76mm, wagomiar max: 12
+maksymalna długośc komory nabojowej: 70mm, wagomiar max: 12

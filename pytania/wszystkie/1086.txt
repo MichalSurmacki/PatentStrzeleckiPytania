@@ -1,0 +1,5 @@
+X001
+Strzelanie rozpoczyna się na komendę
+prowadzącego strzelanie, chyba że chwilowo wyznaczy do tego inną osobę
+prowadzącego strzelanie, lub jeśli jest on nieobecny -- strzelca o największym doświadczeniu z obsługą broni palnej
+prowadzącego strzelanie

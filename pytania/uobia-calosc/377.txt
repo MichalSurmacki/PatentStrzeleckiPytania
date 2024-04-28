@@ -1,0 +1,5 @@
+X001
+Czy gotowe lub obrobione istotne części broni uważa się za broń?
+tak, jeśli posiada je osoba nie mająca pozwolenia na broń
+tak, jeśli można za ich pomocą skonstruować przedmiot zdolny razić cele na odległość
+tak

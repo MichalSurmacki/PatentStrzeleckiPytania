@@ -1,0 +1,5 @@
+X010
+Który szereg broni jest ułożony od najmniejszego do największego odrzutu przy wystrzale
+pistolet centralnego zapłonu, karabin bocznego zapłonu, karabin centralnego zapłonu
+pistolet bocznego zapłonu, pistolet centralnego zapłonu, strzelba
+pistolet bocznego zapłonu, karabin bocznego zapłonu, strzelba

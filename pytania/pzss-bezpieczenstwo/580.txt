@@ -1,0 +1,5 @@
+X010
+Załadowaną broń można odłożyć
+jeśli padnie komenda "STOP"
+nigdy nie można odkładać załadowanej broni
+w trakcie przerw w strzelaniu, za każdym razem kładąc załadowaną broń lufą skierowaną w bezpieczne miejsce, w sposób uniemożliwiający oddanie przypadkowego strzału

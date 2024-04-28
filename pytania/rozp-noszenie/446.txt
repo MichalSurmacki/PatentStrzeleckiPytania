@@ -1,0 +1,5 @@
+X010
+W przypadku nieprzechowywania broni posiadanej na podstawie pozwolenia kolekcjonerskiego w szafie S1 jakie muszą być spełnione dodatkowe warunki?
+pomieszczenie musi mieć co najmniej dwa zamki atestowane i system alarmowy
+gabloty muszą spełniać stabilność, możliwość przytwierdzenia do podłoża, przeszklenie w klasie co najmniej P6B z normy PN-EN 356 i zamknięcia w klasie 5 z normy PN-EN 12209
+nie ma żadnych dodatkowych warunków jeżeli przechowuje się nie więcej niż 50 szt broni w jednym pomieszczeniu

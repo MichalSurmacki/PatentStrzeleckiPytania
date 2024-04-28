@@ -1,0 +1,5 @@
+X001
+Strzelectwo sportowe składa się z następujących dyscyplin
+strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy
+strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do rzutków, strzelanie do ruchomej tarczy
+strzelanie z pistoletu, strzelanie z karabinu, strzelanie z broni gładkolufowej

@@ -1,0 +1,5 @@
+X010
+Gotowe lub obrobione istotne części broni lub amunicji uważa się za broń lub amunicję
+nie, tylko gotowe istotne części broni i amunicji uważa się za broń lub amunicję
+tak
+nie, tylko gotowe lub obrobione części amunicji oraz broni uważa się za broń lub amunicję

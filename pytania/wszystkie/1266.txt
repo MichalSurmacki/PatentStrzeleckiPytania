@@ -1,0 +1,5 @@
+X001
+Broń samopowtarzalna lub samoczynna przeładowuje się po każdym strzale na podstawie
+elektronicznych lub pneumatycznych mechanizmów wewnątrz broni
+ręcznego cofnięcia zamka, wprowadzeniu naboju do komory nabojowej oraz domknięcia i przytrzymania magazynka
+wykorzystania części energii wystrzału

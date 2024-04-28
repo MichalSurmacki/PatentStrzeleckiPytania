@@ -1,0 +1,5 @@
+X010
+W magazynie broni przechowuje się następującą dokumentację
+wykazy pracowników upoważnionych do pobierania broni i amunicji z magazynu, książkę wydania-przyjęcia broni i amunicji, karty rozchodu amunicji
+ewidencję posiadanej broni i amunicji, wraz z kopiami dokumentów zakupu broni i amunicji
+książkę stanu uzbrojenia, książkę rejestru otwierania i zamykania magazynu broni, protokoły i listy przeprowadzonych strzelań z broni palnej

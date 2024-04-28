@@ -1,0 +1,5 @@
+X100
+Maksymalny ciężar broni pistoletów na 25m
+1400g
+1500g
+1000g

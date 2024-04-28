@@ -1,0 +1,5 @@
+X100
+Maksymalny ciężar broni karabin dowolny
+8000g
+5500g
+6500g

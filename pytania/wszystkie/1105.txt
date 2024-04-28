@@ -1,0 +1,5 @@
+X100
+Załadowaną broń można odłożyć
+nigdy nie można odkładać załadowanej broni
+po zakończeniu strzelania, gdy pada komenda "DO TARCZ"
+w trakcie przerw w strzelaniu, za każdym razem kładąc załadowaną broń lufą skierowaną w bezpieczne miejsce, w sposób uniemożliwiający oddanie przypadkowego strzału

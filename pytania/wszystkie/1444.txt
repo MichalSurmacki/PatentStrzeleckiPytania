@@ -1,0 +1,5 @@
+X001
+Maksymalny ciężar broni pistoletów na 25m
+1500g
+1000g
+1400g

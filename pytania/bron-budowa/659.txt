@@ -1,0 +1,5 @@
+X001
+Decocker jest używany w celu
+zrzucenia zamka, co przeładuje broń przygotowując ją do strzału
+odblokowania iglicy do pozycji "gotów"
+zwolnienia napięcia kurka

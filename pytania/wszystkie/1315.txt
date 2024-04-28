@@ -1,0 +1,5 @@
+X100
+Kurek to element
+uderzający w iglicę, co inicjuje eksplozję prochu i wystrzał
+wskazujący, czy broń posiada załadowany nabój w komorze
+czopujący koniec lufy, gdy broń musi być rozładowana

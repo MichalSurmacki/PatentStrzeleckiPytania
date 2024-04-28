@@ -1,0 +1,5 @@
+X010
+Czy gotowe lub obrobione istotne części amunicji uważa się za amunicję?
+tak, jeśli posiada je osoba nie mająca pozwolenia na broń
+tak
+tak, jeśli można za ich pomocą skonstruować zdolny do eksplozji nabój

@@ -1,0 +1,5 @@
+X100
+Ograniczenia regulaminowe pistoletu dowolnego
+kaliber 5.6mm, dowolny ciężar broni, dowolny opór pustu, dowolne wymiary, mechaniczne przyrządy celownicze
+kaliber 7.62-9.65mm lub do 12mm, ciężar max: 1400g, opór spustu min: 1000g, odl mucha-szczerbinka: 220mm, lufa max: 153mm, pudełko: 300x150x50mm
+kaliber 5.6mm, ciężar max: 1400g, opór spustu min: 1000g, odl mucha-szczerbinka: 220mm, lufa max: 153mm, pudełko: 300x150x50mm

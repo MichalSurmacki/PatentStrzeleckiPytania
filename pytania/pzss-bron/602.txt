@@ -1,0 +1,5 @@
+X010
+Kaliber broni to
+uśredniona średnica przewodu lufy broni palnej
+najmniejsza średnica przewodu lufy. W przypadku luf gwintowanych, średnica mierzona na polach gwintu
+średnica przewodu lufy mierzona w komorze nabojowej

@@ -1,0 +1,5 @@
+X100
+Dozwolone przyrządy celownicze w karabinach, poza ruchomą tarczą
+otwarte lub zamknięte mechaniczne
+otwarte mechaniczne
+zamknięte mechaniczne

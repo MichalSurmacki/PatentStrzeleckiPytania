@@ -1,0 +1,5 @@
+X001
+Kurek to element
+czopujący koniec lufy, gdy broń musi być rozładowana
+wskazujący, czy broń posiada załadowany nabój w komorze
+uderzający w iglicę, co inicjuje eksplozję prochu i wystrzał

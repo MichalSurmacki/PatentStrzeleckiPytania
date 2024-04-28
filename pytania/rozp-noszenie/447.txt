@@ -1,0 +1,5 @@
+X001
+Magazyn broni powinien być zabezpieczony
+kratą w oknach oraz drzwiami antywłamaniowymi wyposażonymi w zamki o skomplikowanym mechanizmie
+syreną alarmową, której czujniki umieszczone są na drzwiach i w oknie
+systemem sygnalizacji włamania i napadu spełniającym wymagania co najmniej normy PN-EN 50131-1 z transmisją sygnału alarmu do uzbrojonego stanowiska interwencyjnego, pełniącego całodobowy dyżur

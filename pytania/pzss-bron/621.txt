@@ -1,0 +1,5 @@
+X010
+Maksymalna długość lufy w karabinie pneumatycznym lub małokalibrowym do ruchomej tarczy
+850mm
+1000mm
+762mm

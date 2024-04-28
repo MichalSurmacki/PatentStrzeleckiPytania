@@ -1,0 +1,5 @@
+X001
+Po wzięciu broni do ręki należy
+upewnić się, że magazynek nie jest podpięty
+wyjąć wskaźnik bezpieczeństwa, włożyć załadowany magazynek i czekać na komendę START
+sprawdzić, czy jest rozładowana

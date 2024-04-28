@@ -1,0 +1,5 @@
+X010
+Decocker jest używany w celu
+odblokowania iglicy do pozycji "gotów"
+zwolnienia napięcia kurka
+zrzucenia zamka, co przeładuje broń przygotowując ją do strzału

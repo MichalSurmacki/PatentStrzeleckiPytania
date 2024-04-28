@@ -1,0 +1,5 @@
+X010
+Wagomiar to
+najmniejsza średnica przewodu lufy
+liczba kul o średnicy przewodu lufy, jaką można odlać z funta ołowiu
+długość łuski wraz ze spłonką i kołnierzem

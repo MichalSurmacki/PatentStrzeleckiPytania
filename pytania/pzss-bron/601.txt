@@ -1,0 +1,5 @@
+X010
+Ograniczenia regulaminowe pistoletu standardowego
+kaliber 5.6mm, ciężar max: 1400g, opór spustu min: 1000g, zamknięte przyrządy celownicze, odl mucha-szczerbinka: 220mm, lufa max: 123mm, pudełko: 300x150x100mm
+kaliber 5.6mm, ciężar max: 1400g, opór spustu min: 1000g, otwarte przyrządy celownicze, odl mucha-szczerbinka: 220mm, lufa max: 153mm, pudełko: 300x150x50mm
+kaliber 5.6mm, ciężar max: 1500g, opór spustu min: 1000g, otwarte przyrządy celownicze, odl mucha-szczerbinka: 220mm, lufa max: 153mm, pudełko: 420x200x50mm

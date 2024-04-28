@@ -1,0 +1,5 @@
+X001
+Lufa gwintowana oznacza lufę
+pozwalającą na montaż urządzeń wylotowych jak tłumik płomienia, kompensator czy zatyczka
+mocowaną do łoża broni poprzez wkręcanie mimośrodowe
+posiadającą wewnętrzne bruzdy, które w trakcie wystrzału nadają pociskowi ruch obrotowy

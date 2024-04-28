@@ -1,0 +1,5 @@
+X010
+Organ Policji cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+nie ma obywatelstwa polskiego
+nie posiada miejsca stałego pobytu na terenie Rzeczypospolitej Polskiej
+czasowo przebywa poza miejscem pobytu

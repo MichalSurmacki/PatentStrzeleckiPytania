@@ -1,0 +1,5 @@
+X001
+Minimalny ciężar oporu spustu karabin standardowy
+bez ograniczeń
+500g
+1500g

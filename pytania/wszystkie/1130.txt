@@ -1,0 +1,5 @@
+X001
+Bronią palną, w myśl UoBiA, jest wyłącznie
+broń bojowa, myśliwska, sportowa, pneumatyczna, przedmiot do obezwładniania osób za pomocą ładunków elektrycznych
+broń myśliwska, sportowa, gazowa, pneumatyczna, sygnałowa
+broń bojowa, myśliwska, sportowa, gazowa, alarmowa i sygnałowa

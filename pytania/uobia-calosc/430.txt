@@ -1,0 +1,5 @@
+X100
+Czy wolno posiadać amunicję wykonaną niefabrycznie, w tym także taką, do której wytworzenia wykorzystano fabrycznie nowe elementy amunicji?
+Tak, pod warunkiem, że amunicja ta została wytworzona na własny użytek przez osobę posiadającą pozwolenie na broń myśliwską, sportową lub kolekcjonerską
+Nie
+Tak, o ile amunicja wykonana niefabrycznie zachowuje parametry metryczne (tj. kaliber i długość łuski)

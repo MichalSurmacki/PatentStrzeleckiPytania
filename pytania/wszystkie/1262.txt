@@ -1,0 +1,5 @@
+X001
+Bezpiecznik w broni służy do
+zabezpieczenia broni przed korozją w trakcie dłuższego przechowywania
+weryfikacji stanu załadowania lub rozładowania broni
+zablokowania możliwości oddania strzału

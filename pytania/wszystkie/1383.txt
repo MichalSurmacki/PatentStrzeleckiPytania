@@ -1,0 +1,5 @@
+X010
+Ograniczenia regulaminowe pistoletu szybkostrzelnego
+kaliber 5.6mm, ciężar max: 1300g, opór spustu min: 500g, zamknięte przyrządy celownicze, odl mucha-szczerbinka: 220mm, lufa max: 183mm, pudełko: 420x200x50mm
+kaliber 5.6mm, ciężar max: 1400g, opór spustu min: 1000g, otwarte przyrządy celownicze, odl mucha-szczerbinka: 220mm, lufa max: 153mm, pudełko: 300x150x50mm
+kaliber 5.6mm, ciężar max: 1400g, opór spustu min: 1000g, zamknięte przyrządy celownicze, odl mucha-szczerbinka: 153mm, lufa max: 220mm, pudełko: 300x200x50mm

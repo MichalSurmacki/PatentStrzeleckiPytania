@@ -1,0 +1,5 @@
+X001
+Czy dozwolone jest dokonywanie przeróbek broni?
+Tak
+Tak, w przypadku gdy przeróbka dotyczy przystosowania broni do amunicji ślepej na broń do strzelania pociskami wypełnionymi chemicznymi środkami obezwładniającymi
+Nie

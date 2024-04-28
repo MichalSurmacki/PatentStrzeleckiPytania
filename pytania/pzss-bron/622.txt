@@ -1,0 +1,5 @@
+X001
+Odległości strzelań w konkurencjach karabinowych ISSF to
+10, 25, 50, 100m
+25, 50, 100m
+10, 50, 300m

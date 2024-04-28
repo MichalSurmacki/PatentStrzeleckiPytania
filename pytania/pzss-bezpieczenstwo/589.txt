@@ -1,0 +1,5 @@
+X010
+Po komendzie "ŁADUJ" należy
+wcześniej załadowany magazynek włożyć do broni i czekać na komendę "DO TARCZ"
+załadować magazynek nabojami, włożyć go do broni, wprowadzić pierwszy nabój do komory nabojowej i czekać na następne komendy prowadzącego strzelanie
+załadować broń, wprowadzając magazynek z nabojami do pistoletu i rozpocząć strzelanie

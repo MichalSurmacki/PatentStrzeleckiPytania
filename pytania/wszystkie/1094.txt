@@ -1,0 +1,5 @@
+X001
+Broń można przechowywać wyłącznie
+w szafie S1 w lokalu, do którego dostęp ma tylko posiadacz broni
+w szafie S1 w miejscu stałego pobytu
+w szafie S1

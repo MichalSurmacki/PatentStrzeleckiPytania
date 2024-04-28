@@ -1,0 +1,5 @@
+X001
+Po komendzie "ROZŁADUJ" należy
+rozładować broń, zabezpieczyć wskaźnikiem bezpieczeństwa i zanieść do kontroli prowadzącemu strzelanie
+przerwać strzelanie, schować broń i posprzątać stanowisko strzeleckie
+rozładować broń, zabezpieczyć wskaźnikiem bezpieczeństwa i umieścić na stanowisku strzeleckim

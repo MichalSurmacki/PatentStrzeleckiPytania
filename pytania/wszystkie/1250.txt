@@ -1,0 +1,5 @@
+X001
+Jeżeli podczas strzelania zauważy się jakiekolwiek niebezpieczeństwo na terenie strzelnicy, należy
+przerwać ogień i czekać, aż prowadzący zauważy niebezpieczeństwo
+podejść do prowadzącego i zwrócić mu uwagę
+przestać strzelać i wydać głośna komendę "STOP" lub "PRZERWIJ OGIEŃ"

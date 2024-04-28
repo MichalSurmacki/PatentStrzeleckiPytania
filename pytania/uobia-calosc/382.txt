@@ -1,0 +1,5 @@
+X010
+Organ Policji obligatoryjnie cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+nie przestrzega obowiązku rejestracji broni w ciągu 5 dni od dnia zakupu
+nie przestrzega warunków określonych w pozwoleniu na posiadanie broni
+używa broni niezgodnie z administracyjnym celem jej posiadania

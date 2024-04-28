@@ -1,0 +1,5 @@
+X100
+Po zakończeniu strzelania
+broń rozładowuje się i przedstawia do kontroli prowadzącemu strzelanie
+po sprawdzeniu broni przez prowadzącego strzelanie, broń chowa się do kabury i opuszcza stanowisko strzeleckie
+samemu sprawdza się broń, a następnie po uzyskaniu zgody od prowadzącego strzelanie, opuszcza się stanowisko strzeleckie z bronią

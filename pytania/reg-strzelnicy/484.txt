@@ -1,0 +1,5 @@
+X001
+Komendę "STOP" może wydać
+tylko osoba uczestnicząca w strzelaniu
+tylko prowadzący strzelanie
+każda osoba, która uzna, iż istnieje zagrożenie na strzelnicy

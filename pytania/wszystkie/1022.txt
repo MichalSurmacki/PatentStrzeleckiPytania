@@ -1,0 +1,5 @@
+X100
+Naładowany magazynek, niepodpięty do broni, może mieć przy sobie
+osoba posiadająca dowolne pozwolenie na broń o kalibrze odpowiadającym amunicji w magazynku
+osoba posiadająca pozwolenie do celów sportowych, łowieckich, szkoleniowych lub ochrony osobistej
+osoba posiadająca dopuszczenie do broni obiektowej

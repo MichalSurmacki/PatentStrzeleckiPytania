@@ -1,0 +1,5 @@
+X010
+Organ Policji cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+ma prawomocny wyrok przed sądem cywilnym
+jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko życiu i zdrowiu
+została ukarana mandatem karnym

@@ -1,0 +1,5 @@
+X010
+Broń można ładować
+samodzielnie, w dowolnym miejscu na strzelnicy, jeśli lufa jest skierowana w kierunku bezpiecznym
+samodzielnie, na stanowisku strzeleckim, z lufą skierowaną w kulochwyt, tylko po komendzie "ŁADUJ"
+tylko poza stanowiskami strzeleckimi, aby nie przeszkadzać strzelającym lub prowadzącemu strzelanie

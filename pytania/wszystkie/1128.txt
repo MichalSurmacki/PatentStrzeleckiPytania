@@ -1,0 +1,5 @@
+X010
+Osoby posiadające broń i amunicję na podstawie pozwolenia na broń, są obowiązane przechowywać ją
+w urządzeniach spełniających wymagania co najmniej klasy S2 według normy PN-EN 14450
+w urządzeniach spełniających wymagania co najmniej klasy S1 według normy PN-EN 14450
+w szafie pancernej z przynajmniej dwoma zamkami atestowanymi

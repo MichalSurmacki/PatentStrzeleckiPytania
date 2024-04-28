@@ -1,0 +1,5 @@
+X010
+Organ Policji wydaje pozwolenie na broń, jeżeli wnioskodawca
+udokumentuje potrzebę posiadania broni, złoży odpowiednio wypełniony wniosek wraz z opłatą skarbową
+nie stanowi zagrożenia dla samego siebie, porządku lub bezpieczeństwa publicznego oraz przedstawi ważną przyczynę posiadania broni
+w okresie ostatnich 5 lat nie był skazany prawomocnym wyrokiem za przestępstwo umyślne

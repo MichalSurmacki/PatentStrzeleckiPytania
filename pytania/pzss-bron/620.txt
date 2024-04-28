@@ -1,0 +1,5 @@
+X100
+Minimalny ciężar oporu języka spustowego w pistoletach 25m
+1000g
+500g
+1500g

@@ -1,0 +1,5 @@
+100
+Organ Policji obligatoryjnie cofa pozwolenie jeżeli osoba, której pozwolenie wydano
+nie przestrzega warunków określonych w pozwoleniu na posiadanie broni
+nie przestrzega obowiązku zawiadamiania właściwego organu Policji o zmianie miejsca zamieszkania w terminie 14 dni od dnia jego zmiany
+nie przestrzega obowiązku rejestracji broni w ciągu 5 dni od dnia zakupu

@@ -1,0 +1,5 @@
+X001
+Amunicja centralnego zapłonu to amunicja
+w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski
+każda o kalibrze mniejszym niż 7.62mm
+w której ładunek inicjujący umieszczony jest w dnie łuski

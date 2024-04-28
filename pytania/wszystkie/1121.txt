@@ -1,0 +1,5 @@
+X100
+W rozumieniu ustawy o broni i amunicji, bronią pneumatyczną jest
+niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to zdolne do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17 J
+niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego powietrza jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to zdolne do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący nie przekracza 17 J
+bezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego powietrza jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to zdolne do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17 J

@@ -1,0 +1,5 @@
+X001
+Osoba, która złożyła broń do depozytu Policji
+nie ma dostępu do zdeponowanej broni
+ma swobodny dostęp do zdeponowanej broni o ile jest jej właścicielem
+ma prawo dostępu do broni, w celu okazania osobom zainteresowanym jej nabyciem oraz w celu oceny stanu broni, po uzgodnieniu terminu z jednostką deponującą

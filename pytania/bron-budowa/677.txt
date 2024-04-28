@@ -1,0 +1,5 @@
+X001
+Pazur wyciągu służy do
+automatycznego ściągania nabojów z magazynka broni samopowtarzalnej
+szybkiego usuwania zacięć typu fajka lub squib
+ekstrakcji naboju lub łuski z komory nabojowej

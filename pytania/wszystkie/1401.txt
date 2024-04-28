@@ -1,0 +1,5 @@
+X010
+Broń można ładować
+tylko poza stanowiskami strzeleckimi, aby nie przeszkadzać strzelającym lub prowadzącemu strzelanie
+samodzielnie, na stanowisku strzeleckim, z lufą skierowaną w kulochwyt, tylko po komendzie "ŁADUJ"
+z pomocą innej osoby, jeśli strzelec nie jest w stanie zrobić tego samodzielnie

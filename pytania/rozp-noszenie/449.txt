@@ -1,0 +1,5 @@
+X100
+Ewidencja posiadanej broni i amunicji podmiotu posiadającego broń i amunicję
+może być prowadzona z wykorzystaniem elektronicznych metod przetwarzania informacji pod warunkiem zastosowania rozwiązań systemowych umożliwiających rejestrację i przechowywanie wszystkich operacji wraz z kopią zapasową oraz pozwalających na ich weryfikację na podstawie dokumentów przechowywanych przez podmiot posiadający broń i amunicję przez okres 5 lat od dokonania ostatniego wpisu
+może być prowadzona w formie elektronicznych wydruków komputerowych, przy czym zmiany wpisów muszą być dokonywane kolorem czerwonym w sposób czytelny, ze wskazaniem daty zmiany i nazwiska osoby uprawnionej do dokonania takiej zmiany
+musi być prowadzona w formie papierowej, a wpisy w ewidencji muszą być dokonywane kolorem niebieskim lub czarnym w sposób czytelny

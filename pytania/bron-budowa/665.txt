@@ -1,0 +1,5 @@
+X010
+Pociski są wprawiane w ruch obrotowy w celu
+wektoryzacji prędkości, co znacznie podnosi energię kinetyczną pocisku
+ustabilizowania toru lotu, co znacznie ułatwia celny strzał
+przewiercenia celu jak wiertło, co znacznie zwiększa penetrację
